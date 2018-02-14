@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#A81919</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#EE7474</color>
+    <color name="black">#000000</color>
+    <color name="light_black">#322F2F</color>
+    <color name="dark_grey">#7C7C7C</color>
+    <color name="medium_grey">#999999</color>
+    <color name="light_grey">#9B9B9B</color>
+    <color name="grey">#3E3E3E</color>
+    <color name="background">#ededed</color>
+    <color name="color_border">#E4E4E4</color>
+    <color name="color_line">#E3E3E3</color>
+    <color name="medium_yellow">#F5A623</color>
+    <color name="light_yellow">#EEBA4F</color>
+    <color name="yellow">#F8B74C</color>
+    <color name="yellow2">#F0BE50</color>
+    <color name="color_font">#4A4A4A</color>
+    <color name="green">#98C200</color>
+    <color name="transparant">#00FFFFFF</color>
+    <color name="medium_blue">#0A8ECF</color>
+    <color name="light_blue">#24b5ff</color>
+
+    <color name="status_grey">#9B9B9B</color>
+    <color name="status_orange">#F6A623</color>
+    <color name="status_medium_orange">#FF5858</color>
+    <color name="status_yellow">#FFD800</color>
+    <color name="status_green">#95B457</color>
+    <color name="status_red">#D12C2C</color>
+    <color name="status_dark_pink">#C7008C</color>
+    <color name="status_light_red">#FF9E7D</color>
+    <color name="status_pink">#FF8C9A</color>
+    <color name="status_blue">#4A90E2</color>
+
+    <color name="summer">#EEDB82</color>
+    <color name="fall">#d8d27e</color>
+    <color name="winter">#a1c1da</color>
+    <color name="spring">#8da64b</color>
+    <color name="greyed_out">#c7c7c7</color>
+
+    <color name="booked">#ffb9b9</color>
+    <color name="selected">#e5ffc8</color>
+
+    <color name="overlay">#CC0a0a0a</color>
+
+    <color name="onesignal_bgimage_notif_title_color">#A81919</color>
+    <color name="onesignal_bgimage_notif_body_color">#FFFFFF</color>
+
+    <color name="prompt_color">#4A0202</color>
+    <color name="black_80">#CC000000</color>
+</resources>
